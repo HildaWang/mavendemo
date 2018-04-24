@@ -1,0 +1,33 @@
+
+asquid:S1192"FDefine a constant instead of duplicating this literal "resp:" 8 times.(…Á“8Ïæ„²­,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(şìÅ”8‚Ÿ’ñ«,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢‘Œã8¼Ü“²­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ùç¸ûÿÿÿÿ8ºÆÛà¬,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û¢÷Ø8‚Ÿ’ñ«,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿøÿÿÿÿ8Á§¨Ü­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã’îşÿÿÿÿ8Ïæ„²­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚÑ³õøÿÿÿÿ8Á§¨Ü­,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(üıæ…8Á§¨Ü­,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô†­­8ÓæÎ’­,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í†Í8‚Ÿ’ñ«,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹…Ó§8Ô­ş‹­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œè¡Õûÿÿÿÿ8‚Ÿ’ñ«,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ù©»şÿÿÿÿ8Á§¨Ü­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(²êÇªÿÿÿÿÿ8ï½â¬,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıËí8Ïæ„²­,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(·‰Áó8Á§¨Ü­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚÑ³õøÿÿÿÿ8´İ”­,
