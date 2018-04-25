@@ -14,5 +14,5 @@
             </list>
         </property>
     </bean>
-    <import resource="mysqlContext.xml"/>
+    <import resource="spring-mybatis.xml"/>
 </beans>

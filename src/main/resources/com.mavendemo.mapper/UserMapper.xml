@@ -11,23 +11,23 @@
     <select id="findById" resultMap="resultMap" parameterType="int" >
         select
         <include refid="sql" />
-        from user
+        from t_user
         where id = #{id}
     </select>
 
     <insert id="save"  parameterType="com.mavendemo.model.User">
-        insert into user (id, name)
+        insert into t_user (id, name)
         values (#{id}, #{name})
     </insert>
 
     <delete id="delById" parameterType="int" >
         DELETE
-        from user
+        from t_user
         where id = #{id}
     </delete>
 
     <update id="updateUser"  parameterType="com.mavendemo.model.User">
-        update user
+        update t_user
         set name = #{name}
         where
         id = #{id}
